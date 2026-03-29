@@ -1,6 +1,6 @@
  ### Hey, I'm Corbin 👋
  
- Software engineer building the layer between AI and the real world—inference engines, multi-agent systems, and the full-stack apps that tie them together.
+ Software engineer building the layer between AI and the real-world inference engines, multi-agent systems, and the full-stack apps that tie them together.
  
  **What I'm building:**
  - [Kalshi Trading Bot](https://github.com/llostinthesauce/kalshi-trading-bot) — Autonomous prediction market trading with AI-powered analysis
