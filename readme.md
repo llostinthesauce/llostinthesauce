@@ -1,6 +1,6 @@
 ### Corbin
 
-I build local-first AI tools on Apple Silicon, plus small apps for media and the house.
+I build local-first AI tools on Apple Silicon, plus small apps for media/home.
 
 **Site:** [llostinthesauce.github.io](https://llostinthesauce.github.io) has my writing, blog, and photo galleries.
 
@@ -16,8 +16,8 @@ I build local-first AI tools on Apple Silicon, plus small apps for media and the
 - **Cronos**: a simple Sonos controller I built for a family member who hates the Sonos app
 - **Apple Music Toolkit**: library cleanup, fingerprinting, and metadata repair for a lossless Apple Music library
 
-**Stack:** Python · Swift / SwiftUI · TypeScript · MLX · llama.cpp
+**Stack:** Python · Swift / SwiftUI · C · TypeScript · MLX · llama.cpp
 
 B.S. Information Technology, CS minor · University of Missouri '25
 
-[Site](https://llostinthesauce.github.io) · [LinkedIn](https://linkedin.com/in/corbin-s-b19854212)
+[Site](https://llostinthesauce.github.io) · [LinkedIn](https://linkedin.com/in/corbinshanks)
