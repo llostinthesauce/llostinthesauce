@@ -19,5 +19,3 @@ I build local-first AI tools on Apple Silicon, plus small apps for media/home.
 **Stack:** Python · Swift / SwiftUI · C · TypeScript · MLX · llama.cpp
 
 B.S. Information Technology, CS minor · University of Missouri '25
-
-[Site](https://llostinthesauce.github.io) · [LinkedIn](https://linkedin.com/in/corbinshanks)
