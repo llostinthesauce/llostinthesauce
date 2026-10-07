@@ -10,11 +10,12 @@ I build local-first AI tools on Apple Silicon, plus small apps for media/home.
 - [**hearthbench**](https://github.com/llostinthesauce/hearthbench): serves, inventories, and benchmarks local LLMs on Apple Silicon (MLX and llama.cpp), with reproducible results.
 - [**llostinthesauce.github.io**](https://github.com/llostinthesauce/llostinthesauce.github.io): source for the site.
 
-#### Private for now
+#### Work in progress...
 
 - **Mycelium**: native macOS app for local AI chat and agent workspaces (SwiftUI, FastAPI)
-- **Cronos**: a simple Sonos controller I built for a family member who hates the Sonos app
-- **Apple Music Toolkit**: library cleanup, fingerprinting, and metadata repair for a lossless Apple Music library
+- **Harness-Lab**: MLX fine tuning on my agent harness that is used in Mycelium
+- **Kindle-View**: Uses an old kindle on KUAL as a customizable e-ink display, to be used at a desk (ie, weekly usage limits, weather, now playing)
+- **Apple Music Toolkit/Kronos**: library cleanup, fingerprinting, and metadata repair for a lossless Apple Music library & Sonos API web UI wrapper
 
 **Stack:** Python · Swift / SwiftUI · C · TypeScript · MLX · llama.cpp
 
