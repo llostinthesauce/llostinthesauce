@@ -7,7 +7,7 @@ I build local-first AI tools on Apple Silicon, plus small apps for media and the
 #### Public projects
 
 - [**whisker**](https://github.com/llostinthesauce/whisker): self-hosted iPhone dictation. A SwiftUI app and keyboard shortcut stream audio to an MLX transcription server on your own Mac.
-- [**local-llm-benchmarking-public**](https://github.com/llostinthesauce/local-llm-benchmarking-public): serves, inventories, and benchmarks local LLMs on Apple Silicon (MLX and llama.cpp), with reproducible results.
+- [**hearthbench**](https://github.com/llostinthesauce/hearthbench): serves, inventories, and benchmarks local LLMs on Apple Silicon (MLX and llama.cpp), with reproducible results.
 - [**llostinthesauce.github.io**](https://github.com/llostinthesauce/llostinthesauce.github.io): source for the site.
 
 #### Private for now
