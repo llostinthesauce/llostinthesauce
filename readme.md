@@ -1,4 +1,4 @@
-### Corbin
+### llostinthesauce
 
 I build local-first AI tools on Apple Silicon, plus small apps for media and the home.
 
