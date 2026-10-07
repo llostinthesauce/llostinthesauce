@@ -1,16 +1,23 @@
-### Hey, I'm Corbin 👋
+### Corbin
 
-Software engineer building the layer between AI and the real-world inference engines, multi-agent systems, and the full-stack apps that tie them together.
+I build local-first AI tools on Apple Silicon, plus small apps for media and the house.
 
-**What I'm building:**
-- [Mycelium](https://github.com/llostinthesauce/mycelium) — Local-first agentic middleware with RAG, knowledge graphs, and autonomous macOS context harvesting
-- [Kalshi Trading Bot](https://github.com/llostinthesauce/kalshi-trading-bot) — Autonomous prediction market trading with AI-powered analysis
-- [Lumen](https://github.com/llostinthesauce/lumen) — Privacy-first local LLM client for macOS/iOS, built on Apple MLX
-- [VisionSpy](https://github.com/llostinthesauce/visionspy) — Multi-agent visual intelligence for e-commerce competitive analysis
-- [ACRE](https://github.com/llostinthesauce/acre) — LLM switchboard for model comparison and offline-first workflows
+**Site:** [llostinthesauce.github.io](https://llostinthesauce.github.io) has my writing, blog, and photo galleries.
 
-**Stack:** Python · Swift · C/C++ · JavaScript · MLX · llama.cpp · Docker · SwiftUI
+#### Public projects
 
-B.S. Information Technology + CS Minor, University of Missouri '25
+- [**whisker**](https://github.com/llostinthesauce/whisker): self-hosted iPhone dictation. A SwiftUI app and keyboard shortcut stream audio to an MLX transcription server on your own Mac.
+- [**local-llm-benchmarking-public**](https://github.com/llostinthesauce/local-llm-benchmarking-public): serves, inventories, and benchmarks local LLMs on Apple Silicon (MLX and llama.cpp), with reproducible results.
+- [**llostinthesauce.github.io**](https://github.com/llostinthesauce/llostinthesauce.github.io): source for the site.
 
-[LinkedIn](https://linkedin.com/in/corbin-s-b19854212) · [Personal Blog](https://llostinthesauce.github.io)
+#### Private for now
+
+- **Mycelium**: native macOS app for local AI chat and agent workspaces (SwiftUI, FastAPI)
+- **Cronos**: a simple Sonos controller I built for a family member who hates the Sonos app
+- **Apple Music Toolkit**: library cleanup, fingerprinting, and metadata repair for a lossless Apple Music library
+
+**Stack:** Python · Swift / SwiftUI · TypeScript · MLX · llama.cpp
+
+B.S. Information Technology, CS minor · University of Missouri '25
+
+[Site](https://llostinthesauce.github.io) · [LinkedIn](https://linkedin.com/in/corbin-s-b19854212)
